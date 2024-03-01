@@ -1,2 +1,2 @@
 # My_local_KiCad_libs
-my local kikad libraries
+Don't use these libraries for serious projects. They are made by an dilettante!!!
