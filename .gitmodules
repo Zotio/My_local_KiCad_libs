@@ -1,0 +1,18 @@
+[submodule "library/EspressifKiCadLibrary"]
+	path = library/EspressifKiCadLibrary
+	url = https://github.com/espressif/kicad-libraries.git
+[submodule "library/xess"]
+	path = library/xess
+	url = https://github.com/xesscorp/xess.pretty.git
+[submodule "library/digikey"]
+	path = library/digikey
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "keebee.pretty"]
+	path = keebee.pretty
+	url = https://github.com/jmding8/keebee.pretty.git
+[submodule ".library"]
+	path = .library
+	url = https://github.com/jmding8/keebee.pretty.git
+[submodule "library/keebee"]
+	path = library/keebee
+	url = https://github.com/jmding8/keebee.pretty.git
